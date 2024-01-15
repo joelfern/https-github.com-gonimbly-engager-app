@@ -3,8 +3,8 @@
   "description": "Heroku CX, Customer Rewards App",
   "image": "heroku/nodejs",
   "addons": [
-    "heroku-postgresql:hobby-dev",
-    "heroku-redis:hobby-dev"
+    "heroku-postgresql:mini",
+    "heroku-redis:mini"
   ],
   "env": {
       "COMPILE_TIMEOUT": {
