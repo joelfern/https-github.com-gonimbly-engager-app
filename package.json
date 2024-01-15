@@ -5,7 +5,7 @@
   "author": "Go Nimbly",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^0.8.5",
+    "bcryptjs": "^0.8.5",
     "bluebird": "^3.1.1",
     "body-parser": "^1.14.2",
     "bookshelf": "^0.9.1",
